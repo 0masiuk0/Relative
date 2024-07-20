@@ -16,7 +16,7 @@ namespace Relative
 
 		public Line(Vec pos0, Vec pos1, Color color)
 		{
-			mSeg = 3;
+			mSeg = 5;
 			mPos0 = pos0;
 			mPos1 = pos1;
 			mColor = color;
